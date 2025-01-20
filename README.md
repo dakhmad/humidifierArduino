@@ -1,6 +1,6 @@
-# Humidifier Aromaterapi 🌿💧
+# Arduino Project Humidifier 🌿💧
 
-Kode Arduino untuk mengontrol Humidifier Aromaterapi. Proyek ini dirancang untuk menciptakan suasana relaksasi dengan kombinasi uap yang dapat dikontrol melalui push button atau bluetooth.
+Kode Arduino untuk mengontrol Humidifier. Project ini dirancang untuk menciptakan suasana relaksasi dengan kombinasi uap yang dapat dikontrol melalui push button atau bluetooth.
 
 ## 📋 Fitur
 - **Kontrol**: Memiliki dua cara kontrol yaitu melalui push button dan bluetooth.
@@ -24,3 +24,6 @@ Kode Arduino untuk mengontrol Humidifier Aromaterapi. Proyek ini dirancang untuk
 - 🧑‍💻 Dani Akhmad Maulana (2230511007)
 - 👩‍💻 Natya Octaviana (2230511024)
 - 🧑‍💻 Irez Abdullah (2230511041)
+
+## 💡 Skema dan wiring project Humidifier
+![Deskripsi Gambar](./wiring_humidifier.jpeg)
