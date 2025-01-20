@@ -1,4 +1,4 @@
-# Arduino Project Humidifier 🌿💧
+# Arduino Project Humidifier 💧💨😶‍🌫️
 
 Kode Arduino untuk mengontrol Humidifier. Project ini dirancang untuk menciptakan suasana relaksasi dengan kombinasi uap yang dapat dikontrol melalui push button atau bluetooth.
 
