@@ -15,3 +15,12 @@ Kode Arduino untuk mengontrol Humidifier Aromaterapi. Proyek ini dirancang untuk
 - **Buzzer**
 - **Push Button**
 - **Bluetooth HC-05**
+
+Anggota Kelompok:
+- Meitiasari Nurlatifah (2230511001)
+- Dian Sela Anjelina (2230511002)
+- Farhan Adiaswara (2230511003)
+- Rafi Maulana Putra (2230511005)
+- Dani Akhmad Maulana (2230511007)
+- Natya Octaviana (2230511024)
+- Irez Abdullah (2230511041)
